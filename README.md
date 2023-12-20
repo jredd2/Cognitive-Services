@@ -1,7 +1,8 @@
+<br>[Alt Text](png-transparent-microsoft-azure-cloud-computing-microsoft-corporation-platform-as-a-service-business-cloud-computing-blue-angle-service.png)</br>
 # Cognitive-Services
 Analyze a local image using the Computer Vision REST API and Python
 
-## What is Computer Vision?
+## What is Computer Vision? 
 Computer Vision is an AI Microsoft Azure Service that can analyze content in images and videos. It is very powerful tool that can be used for tasks such as text extraction, spatial analysis, and image understanding to name a few. The most notable realm this could be useful in is law enforcement where cameras may be needed to identify suspects or possibly help in finding missing persons. It could also be used when processing patients within a hospital. The possibilities are endless so I encourage all to play around with this tool as I have.
 
 ### Objective: Use Azure Computer Vision AI to Analyze following in a local image in python:
