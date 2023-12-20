@@ -1,4 +1,5 @@
-<br>[Alt Text](png-transparent-microsoft-azure-cloud-computing-microsoft-corporation-platform-as-a-service-business-cloud-computing-blue-angle-service.png)</br>
+<br>![Alt Text](png-transparent-microsoft-azure-cloud-computing-microsoft-corporation-platform-as-a-service-business-cloud-computing-blue-angle-service.png)</br>
+
 # Cognitive-Services
 Analyze a local image using the Computer Vision REST API and Python
 
